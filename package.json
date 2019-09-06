@@ -1,6 +1,6 @@
 {
   "name": "jest-decorator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Write unit tests for jest using typescript class",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

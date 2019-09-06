@@ -7,7 +7,7 @@ yarn add -D jest-decorator
 ## Example
 
 ```typescript
-import { AfterAll, AfterEach, BeforeAll, BeforeEach, Describe, Test } from "../src";
+import { AfterAll, AfterEach, BeforeAll, BeforeEach, Describe, Test } from "jest-decorator";
 
 @Describe("Test jest decorator")
 class TestJestDecorator {
